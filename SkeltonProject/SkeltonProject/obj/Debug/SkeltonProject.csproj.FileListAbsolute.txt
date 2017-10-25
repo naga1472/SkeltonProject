@@ -1,0 +1,9 @@
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe.config
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.pdb
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.csprojResolveAssemblyReference.cache
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Form1.resources
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Properties.Resources.resources
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.csproj.GenerateResource.Cache
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
+c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
