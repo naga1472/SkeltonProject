@@ -39,7 +39,7 @@ namespace SkeltonProject
 
         private void listView1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("リストが押されました");
+            MessageBox.Show("リスト押下");
         }
 
         private void Testbutton1_Click(object sender, EventArgs e)
