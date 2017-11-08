@@ -26,7 +26,7 @@ namespace SkeltonProject
         {
 
         }
-
+        //コメント
         private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("ボタン押しました");
@@ -44,7 +44,7 @@ namespace SkeltonProject
 
         private void Testbutton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ボタンを押します。");
+            MessageBox.Show("ボタンーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー");
         }
 
         
