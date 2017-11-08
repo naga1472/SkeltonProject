@@ -1,0 +1,8 @@
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\bin\Release\SkeltonProject.exe.config
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\bin\Release\SkeltonProject.exe
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\bin\Release\SkeltonProject.pdb
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Release\SkeltonProject.Form1.resources
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Release\SkeltonProject.Properties.Resources.resources
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Release\SkeletonProject.csproj.GenerateResource.Cache
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Release\SkeltonProject.exe
+C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Release\SkeltonProject.pdb
