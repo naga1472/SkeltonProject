@@ -7,21 +7,9 @@ c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\Skelto
 c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
 c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
 c:\users\matsumoto_y\documents\visual studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csprojResolveAssemblyReference.cache
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe.config
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.pdb
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csprojResolveAssemblyReference.cache
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Form1.resources
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Properties.Resources.resources
-C:\Users\nagata_shinji\Documents\Visual Studio 2015\Projects\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csproj.GenerateResource.Cache
+C:\Users\nagata_shinji\Desktop\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe.config
+C:\Users\nagata_shinji\Desktop\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
+C:\Users\nagata_shinji\Desktop\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
 C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe.config
 C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.exe
 C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.pdb
-C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.exe
-C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\bin\Debug\SkeltonProject.pdb
-C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csprojResolveAssemblyReference.cache
-C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Form1.resources
-C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Debug\SkeltonProject.Properties.Resources.resources
-C:\Users\nagata_shinji\Source\Repos\SkeltonProject\SkeltonProject\SkeltonProject\obj\Debug\SkeletonProject.csproj.GenerateResource.Cache

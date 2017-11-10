@@ -26,10 +26,10 @@ namespace SkeltonProject
         {
 
         }
-        //コメント
+
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ボタン押しました");
+            MessageBox.Show("ボタンボタン");
         }
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
@@ -39,12 +39,12 @@ namespace SkeltonProject
 
         private void listView1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("リスト押下");
+            MessageBox.Show("リストが押されました");
         }
 
         private void Testbutton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ttanンーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー");
+            MessageBox.Show("ボタン1が押されました");
         }
 
         
