@@ -29,7 +29,7 @@ namespace SkeltonProject
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(null);
+            MessageBox.Show("ボタンを押す");
         }
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
