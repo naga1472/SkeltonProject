@@ -44,7 +44,7 @@ namespace SkeltonProject
 
         private void Testbutton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ボタンをタップしました！！！");
+            MessageBox.Show("ボタンを！！");
         }
 
         
