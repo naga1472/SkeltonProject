@@ -29,7 +29,7 @@ namespace SkeltonProject
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ボタン");
+            MessageBox.Show(null);
         }
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
@@ -44,7 +44,7 @@ namespace SkeltonProject
 
         private void Testbutton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ボタンをタップする");
+            MessageBox.Show(null);
         }
 
         private void button1_Click(object sender, EventArgs e)
