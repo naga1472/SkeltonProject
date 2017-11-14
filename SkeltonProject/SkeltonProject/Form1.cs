@@ -44,10 +44,9 @@ namespace SkeltonProject
 
         private void Testbutton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ボタンを！！");
+            MessageBox.Show("ボタンをタップする");
         }
 
-        
         private void button1_Click(object sender, EventArgs e)
         {
             tabControl1.SelectTab(1);
