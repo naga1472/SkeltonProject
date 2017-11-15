@@ -44,7 +44,7 @@ namespace SkeltonProject
 
         private void Testbutton1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(null);
+            MessageBox.Show("null");
         }
 
         private void button1_Click(object sender, EventArgs e)
